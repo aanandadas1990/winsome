@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# v1.0 : 10-08-2014
+ 
+CACHE:
+# pages
+index.html
+ 
+# styles & scripts
+css/custom.css
+js/jquery.min.js
+js/stellarnav.js
+ 
+# images
+images/favicon.ico
+images/logo.png
